@@ -1,0 +1,22 @@
+MOONBOUND FACT SHEET
+
+What is Moonbound?
+Moonbound is an iPhone app that tells you what's worth looking at on the Moon tonight, where to find it in the sky, and when to go out. The Moon looks different every night: a crater that's spectacular when the sunrise line crosses it is flat a few days later. Moonbound works that out for you and picks tonight's best sights, each with a NASA photo and a short story of the place.
+
+Who is it for?
+Anyone who looks up at the Moon and wonders what they're seeing. You don't need to know the sky: Moonbound tells you what's worth a look tonight and when to go out, whether you use your eyes, binoculars or a telescope.
+
+App: Moonbound
+Developer: The Shed
+Platform: iPhone, iOS 26.5 or later
+Category: Education
+Price: Free, no ads. Moonbound Pro: €0.99/month, €9.99/year or €14.99 once
+Languages: English, Italian, Spanish
+Website: https://moonbound.theshed.me
+App Store: https://apps.apple.com/us/app/moonbound/id6787484177
+Contact: hi.theshed@gmail.com
+
+About The Shed
+The Shed exists for the joy of building useful tools. Moonbound is one of them: a practical, focused tool made with curiosity.
+
+Lunar photos in the app: NASA/GSFC/Arizona State University (LROC), via USGS.
